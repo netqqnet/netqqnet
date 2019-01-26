@@ -1,6 +1,6 @@
 <center><h2>Git学习笔记</h2></center>
 
-[TOC]
+[git-cheatsheet.pdf](./misc/git-cheatsheet.pdf)
 ## Git命令
 ***
 
